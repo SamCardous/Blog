@@ -1,4 +1,4 @@
-# Blog
+# Blog com Bootstrap.
 Trabalho do Curso de ADS aonde:
 Cada grupo (composto por três alunos) deverá criar um site responsivo utilizando apenas componentes e classes do Bootstrap, sem CSS personalizado.
 
