@@ -4,6 +4,6 @@ Cada grupo (composto por três alunos) deverá criar um site responsivo utilizan
 apenas componentes e classes do Bootstrap, sem CSS personalizado.
 
 Integrantes do Grupo:
-• Cleodom Gomes da Silva Filho.
-• Julio Gutierres Campos de Sousa.
-• Samuel Cardoso França.
+• Cleodom Gomes da Silva Filho
+• Julio Gutierres Campos de Sousa
+• Samuel Cardoso França
